@@ -1,0 +1,13 @@
+{
+  "name": "wp-img-issue",
+  "version": "0.0.0",
+  "author": "Slava Fomin II <slava@fomin.io>",
+  "private": true,
+  "devDependencies": {
+    "file-loader": "^1.1.0",
+    "webpack": "^3.6.0"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}

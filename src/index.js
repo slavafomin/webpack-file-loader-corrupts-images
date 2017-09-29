@@ -1,0 +1,2 @@
+
+import './slava-fomin.jpg';
